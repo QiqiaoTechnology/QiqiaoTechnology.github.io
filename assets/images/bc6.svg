@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="480px" height="420px" viewBox="0 0 480 420" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>Hyperledger Fabric</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#3F6F91" offset="0%"></stop>
+            <stop stop-color="#1A5874" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="57.6134143%" y1="0%" x2="89.8909999%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#4BD0FF" offset="0%"></stop>
+            <stop stop-color="#153147" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-20.948002%" y1="-57.4688016%" x2="115.459144%" y2="83.0602057%" id="linearGradient-3">
+            <stop stop-color="#45D6FF" offset="0%"></stop>
+            <stop stop-color="#222530" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="7.70830199%" y1="-39.4379878%" x2="50%" y2="92.0903925%" id="linearGradient-4">
+            <stop stop-color="#59BEE4" stop-opacity="0.986979167" offset="0%"></stop>
+            <stop stop-color="#222530" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="63.0649038%" x2="50%" y2="98.6068461%" id="linearGradient-5">
+            <stop stop-color="#C8B22D" offset="0%"></stop>
+            <stop stop-color="#3CABDB" offset="35.1947061%"></stop>
+            <stop stop-color="#57D0FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="105.655571%" y1="85.7451923%" x2="-20.8899457%" y2="42.9897837%" id="linearGradient-6">
+            <stop stop-color="#34E5FF" offset="0%"></stop>
+            <stop stop-color="#2AD7FF" offset="66.9729809%"></stop>
+            <stop stop-color="#FFC411" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="85.5677726%" y1="91.6730967%" x2="10.3523663%" y2="0%" id="linearGradient-7">
+            <stop stop-color="#27FFD5" offset="0%"></stop>
+            <stop stop-color="#5AC5E7" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="-83.6624074%" x2="50%" y2="84.428385%" id="linearGradient-8">
+            <stop stop-color="#5AD8FF" offset="0%"></stop>
+            <stop stop-color="#37C3FF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Hyperledger-Fabric" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#151F30" x="0" y="0" width="480" height="420"></rect>
+        <g id="Group">
+            <rect id="Rectangle" fill="#151F30" x="0" y="0" width="480" height="420"></rect>
+            <g id="pic" transform="translate(63.000000, 19.000000)" fill-rule="nonzero">
+                <polyline id="Path-4" stroke="#2A92CC" stroke-width="3" opacity="0.638695126" stroke-linecap="round" points="32 261 194.886458 353 240 328.257998"></polyline>
+                <path d="M322,276 L274,251" id="Path-5" stroke="#2D96C8" stroke-width="3" opacity="0.364583333" stroke-linecap="round"></path>
+                <g id="Group-5" transform="translate(11.000000, 163.000000)">
+                    <path d="M16.430349,36.0816327 L16.430349,84.8979592" id="Path-3" stroke="url(#linearGradient-1)" stroke-width="4" stroke-dasharray="4,4"></path>
+                    <ellipse id="Oval" fill="#1B4359" transform="translate(16.844934, 93.051360) rotate(-300.000000) translate(-16.844934, -93.051360) " cx="16.8449339" cy="93.0513604" rx="7.43433864" ry="7.44585936"></ellipse>
+                    <ellipse id="Oval" fill="#79CDE9" opacity="0.109607515" cx="16.5" cy="16.4489796" rx="16.5" ry="16.4489796"></ellipse>
+                    <ellipse id="Oval" fill="#00C0FF" opacity="0.319824219" cx="16.5" cy="16.4489796" rx="5.85483871" ry="5.83673469"></ellipse>
+                </g>
+                <g id="Group-2" transform="translate(289.500000, 299.500000) rotate(-300.000000) translate(-289.500000, -299.500000) translate(273.000000, 249.000000)">
+                    <path d="M16.430349,18.0736842 L16.430349,66.9789474" id="Path-3" stroke="url(#linearGradient-1)" stroke-width="4" stroke-dasharray="4,4"></path>
+                    <ellipse id="Oval" fill="#79CDE9" opacity="0.100000001" cx="16.5" cy="84.5210526" rx="16.5" ry="16.4789474"></ellipse>
+                    <ellipse id="Oval" fill="#00C0FF" opacity="0.200000003" cx="17.0322581" cy="84.6634888" rx="5.85483871" ry="5.84736842"></ellipse>
+                    <ellipse id="Oval" fill="#1B4359" cx="17.0322581" cy="7.44210526" rx="7.4516129" ry="7.44210526"></ellipse>
+                </g>
+                <path d="M241,201 L238.136447,335.151934 L122,406 L122.901221,269.913383 L241,201 Z" id="Rectangle" fill="url(#linearGradient-2)" opacity="0.200000003" transform="translate(181.500000, 303.500000) rotate(-120.000000) translate(-181.500000, -303.500000) "></path>
+                <g id="Group" transform="translate(57.000000, 16.000000)">
+                    <polygon id="Path" fill="url(#linearGradient-3)" points="62.7659574 103.961977 130.433618 198.376426 192.553191 103.961977"></polygon>
+                    <path d="M127.594147,6.97804297 L63.9203642,105.009892 L6.93094405,209.337296 L129.419751,197.343334 L245.293907,209.331692 L192.529645,104.995963 L127.594147,6.97804297 Z" id="Path-2" stroke="url(#linearGradient-5)" stroke-width="3" fill="url(#linearGradient-4)"></path>
+                    <path d="M127.15159,4.91245788 L4.69148936,74.3413981 L4.69148936,210.224727 L127.151848,277.284513 L246.37234,210.236144 L246.37234,74.3298759 L127.15159,4.91245788 Z" id="Path-16" stroke="url(#linearGradient-6)" stroke-width="3"></path>
+                    <ellipse id="Oval" stroke="url(#linearGradient-7)" stroke-width="3" fill="#222530" transform="translate(245.212766, 208.454373) scale(1, -1) translate(-245.212766, -208.454373) " cx="245.212766" cy="208.454373" rx="4.78723404" ry="4.77376426"></ellipse>
+                    <ellipse id="Oval" stroke="url(#linearGradient-7)" stroke-width="3" fill="#222530" transform="translate(4.787234, 208.454373) scale(1, -1) translate(-4.787234, -208.454373) " cx="4.78723404" cy="208.454373" rx="4.78723404" ry="4.77376426"></ellipse>
+                    <ellipse id="Oval" stroke="#3EA2C6" stroke-width="3" fill="#222530" transform="translate(127.127660, 4.773764) scale(1, -1) translate(-127.127660, -4.773764) " cx="127.12766" cy="4.77376426" rx="4.78723404" ry="4.77376426"></ellipse>
+                </g>
+                <circle id="Oval" fill="url(#linearGradient-8)" opacity="0.300000012" cx="358.5" cy="211.5" r="24.5"></circle>
+                <circle id="Oval" fill="url(#linearGradient-8)" opacity="0.200000003" cx="34.5" cy="34.5" r="34.5"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

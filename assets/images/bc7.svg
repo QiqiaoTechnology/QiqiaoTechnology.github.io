@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="480px" height="420px" viewBox="0 0 480 420" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>密码学与安全服务</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="-26.1509774%" y1="-43.0751568%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFCF3B" offset="0%"></stop>
+            <stop stop-color="#4DDFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-201.117573%" y1="-372.125%" x2="110.53111%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#3EE0FF" offset="0%"></stop>
+            <stop stop-color="#3EE0FF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="0%" x2="89.9895837%" y2="0%" id="linearGradient-3">
+            <stop stop-color="#007D99" offset="0%"></stop>
+            <stop stop-color="#007D99" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="17.0969293%" y1="0%" x2="85.8340284%" y2="0%" id="linearGradient-4">
+            <stop stop-color="#00B4C9" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#007D99" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="-83.6624074%" x2="50%" y2="84.428385%" id="linearGradient-5">
+            <stop stop-color="#5AD8FF" offset="0%"></stop>
+            <stop stop-color="#37C3FF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="密码学与安全服务" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#151F30" x="0" y="0" width="480" height="420"></rect>
+        <g id="Group">
+            <rect id="Rectangle" fill="#151F30" x="0" y="0" width="480" height="420"></rect>
+            <g id="Group-3" transform="translate(31.000000, 8.000000)" fill-rule="nonzero">
+                <g id="Group-20">
+                    <g id="Group-19" transform="translate(181.000000, 112.000000)" stroke="#3EE0FF" stroke-width="3">
+                        <path d="M14.1428571,36.1945257 L14.1428571,17.4489019 C14.1428571,7.81213947 22.2141682,0 32.1706349,0 C42.1271017,0 50.1984127,7.81213947 50.1984127,17.4489019 L50.1984127,36.1945257" id="Rectangle-9"></path>
+                        <path d="M64.5,65.9388889 L64.5,36.4399123 C64.5,32.9016802 60.7998023,29.8947368 56.1,29.8947368 L9.9,29.8947368 C5.20019767,29.8947368 1.5,32.9016802 1.5,36.4399123 L1.5,65.9388889 C1.5,73.9203487 9.63257865,80.5292398 19.8,80.5292398 L46.2,80.5292398 C56.3674213,80.5292398 64.5,73.9203487 64.5,65.9388889 Z" id="Rectangle-8" fill="#151F30"></path>
+                    </g>
+                    <path d="M334,308.669922 C334,322.132772 334,333.576131 334,343 L91,343 L91,64 L334,64 L334,229.677031" id="Rectangle-7" stroke="url(#linearGradient-1)" stroke-width="3"></path>
+                    <polygon id="Rectangle-7-Copy" stroke="#4DDFFF" stroke-width="3" fill="url(#linearGradient-2)" points="147 230 370 230 370 305 147 305"></polygon>
+                    <g id="Group-23" transform="translate(194.000000, 246.000000)" stroke="#56DEF4" stroke-width="3">
+                        <path d="M-2.02929598,17.8275222 L33.5232731,25.2617526" id="Line-17" transform="translate(15.746989, 21.544637) rotate(-45.000000) translate(-15.746989, -21.544637) "></path>
+                        <path d="M-2.02929598,17.8275222 L33.5232731,25.2617526" id="Line-17" transform="translate(15.746989, 21.544637) scale(-1, 1) rotate(-45.000000) translate(-15.746989, -21.544637) "></path>
+                    </g>
+                    <g id="Group-26" transform="translate(233.000000, 246.000000)" stroke="#56DEF4" stroke-width="3">
+                        <path d="M-2.48987984,17.8082973 L33.1011389,25.2809775" id="Line-17" transform="translate(15.305630, 21.544637) rotate(-45.000000) translate(-15.305630, -21.544637) "></path>
+                        <path d="M-2.48987984,17.8082973 L33.1011389,25.2809775" id="Line-17" transform="translate(15.305630, 21.544637) scale(-1, 1) rotate(-45.000000) translate(-15.305630, -21.544637) "></path>
+                    </g>
+                    <g id="Group-27" transform="translate(267.000000, 250.000000)" stroke="#56DEF4" stroke-width="3">
+                        <path d="M-2.60759782,14.0694025 L32.5647881,21.0202001" id="Line-17" transform="translate(14.978595, 17.544801) rotate(-45.000000) translate(-14.978595, -17.544801) "></path>
+                        <path d="M-2.60759782,14.0694025 L32.5647881,21.0202001" id="Line-17" transform="translate(14.978595, 17.544801) scale(-1, 1) rotate(-45.000000) translate(-14.978595, -17.544801) "></path>
+                    </g>
+                    <path d="M307.3,283.470588 L325.7,283.470588" id="Line-18" stroke="#56DEF4" stroke-width="3" stroke-linecap="square"></path>
+                    <path d="M367,135.5 L424.315593,135.5" id="Path-17" stroke="url(#linearGradient-3)" stroke-width="3" stroke-dasharray="4"></path>
+                    <path d="M337,326.5 L424.315593,326.5" id="Path-17" stroke="#007D99" stroke-width="3" stroke-dasharray="4"></path>
+                    <path d="M0,216.5 L87.315593,216.5" id="Path-17" stroke="url(#linearGradient-4)" stroke-width="3" stroke-dasharray="4"></path>
+                    <circle id="Oval-19" fill="#064355" transform="translate(420.143827, 326.143827) rotate(-6.000000) translate(-420.143827, -326.143827) " cx="420.143827" cy="326.143827" r="6.5"></circle>
+                    <circle id="Oval-19" fill="#064355" transform="translate(367.143827, 135.143827) rotate(-6.000000) translate(-367.143827, -135.143827) " cx="367.143827" cy="135.143827" r="6.5"></circle>
+                    <rect id="Rectangle" fill="url(#linearGradient-5)" opacity="0.300000012" transform="translate(369.206367, 162.734809) rotate(-315.000000) translate(-369.206367, -162.734809) " x="337.206367" y="74.2348093" width="64" height="177" rx="32"></rect>
+                    <rect id="Rectangle" fill="url(#linearGradient-5)" opacity="0.200000003" transform="translate(375.072853, 42.927147) rotate(-315.000000) translate(-375.072853, -42.927147) " x="359.072853" y="-0.572853481" width="32" height="87" rx="16"></rect>
+                    <rect id="Rectangle" fill="url(#linearGradient-5)" opacity="0.300000012" transform="translate(57.294679, 333.294679) rotate(-315.000000) translate(-57.294679, -333.294679) " x="44.2946789" y="297.794679" width="26" height="71" rx="13"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

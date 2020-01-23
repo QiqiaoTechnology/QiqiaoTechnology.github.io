@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="480px" height="420px" viewBox="0 0 480 420" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>数据治理解决方案</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="88.0334092%" y1="17.3554322%" x2="19.5979926%" y2="89.2518521%" id="linearGradient-1">
+            <stop stop-color="#17709E" offset="0%"></stop>
+            <stop stop-color="#151F30" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="139.977777%" y1="-37.0184537%" x2="19.4384622%" y2="89.4194504%" id="linearGradient-2">
+            <stop stop-color="#267EAC" offset="0%"></stop>
+            <stop stop-color="#151F30" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="34.9741976%" y1="0%" x2="59.0382834%" y2="94.5818996%" id="linearGradient-3">
+            <stop stop-color="#FFC619" offset="0%"></stop>
+            <stop stop-color="#4DDFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="6.11893093%" y1="-23.7901541%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#81D7BB" offset="0%"></stop>
+            <stop stop-color="#4DDFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-19.28125%" y1="-152.484375%" x2="100%" y2="120.070312%" id="linearGradient-5">
+            <stop stop-color="#5BE3FF" offset="0%"></stop>
+            <stop stop-color="#3CAAE3" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="72.2890625%" y1="100%" x2="11.234375%" y2="0%" id="linearGradient-6">
+            <stop stop-color="#51C4FF" offset="0%"></stop>
+            <stop stop-color="#2CFFF7" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="17.0969293%" y1="0%" x2="85.8340284%" y2="0%" id="linearGradient-7">
+            <stop stop-color="#00B4C9" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#007D99" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="数据治理解决方案" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#151F30" x="0" y="0" width="480" height="420"></rect>
+        <g id="Group">
+            <rect id="Rectangle" fill="#151F30" x="0" y="0" width="480" height="420"></rect>
+            <polygon id="Rectangle" fill="url(#linearGradient-1)" fill-rule="nonzero" opacity="0.300000012" points="415 270.40625 479.854053 311.240283 297.477749 399.058594 232.623696 358.224561"></polygon>
+            <polygon id="Rectangle" fill="url(#linearGradient-2)" fill-rule="nonzero" opacity="0.200000003" points="164.364645 245 214.947477 277.029194 65 338.082031 14.4171682 306.052837"></polygon>
+            <g id="Group-2" transform="translate(42.000000, 53.000000)">
+                <path d="M115.349767,81.6506933 L190.368493,43 M227.029626,43.4359728 L300.689768,81.4689084 M302,104.936115 L227.448276,144 M190.368493,144 L114,104.731339" id="Rectangle" stroke="url(#linearGradient-3)" stroke-width="3"></path>
+                <path d="M190.112185,263 L115.070827,224.684852 M115,201.650484 L190.112185,164 M228.0752,164 L303,201.650484 M303,224.684852 L226.687689,263" id="Rectangle-Copy-2" stroke="url(#linearGradient-4)" stroke-width="3"></path>
+                <circle id="Oval-41" stroke="url(#linearGradient-6)" stroke-width="3" fill="url(#linearGradient-5)" fill-rule="nonzero" cx="208.5" cy="28.5" r="22"></circle>
+                <circle id="Oval-41-Copy" stroke="url(#linearGradient-6)" stroke-width="3" fill="url(#linearGradient-5)" fill-rule="nonzero" cx="208.5" cy="154.5" r="22"></circle>
+                <circle id="Oval-41-Copy-3" stroke="url(#linearGradient-6)" stroke-width="3" fill="url(#linearGradient-5)" fill-rule="nonzero" cx="208.5" cy="273.5" r="22"></circle>
+                <circle id="Oval-41-Copy-2" stroke="url(#linearGradient-6)" stroke-width="3" fill="url(#linearGradient-5)" fill-rule="nonzero" cx="95.5" cy="89.5" r="22"></circle>
+                <path d="M94.5,116 L94.5,306" id="Path-17" stroke="#007D99" stroke-width="3" stroke-dasharray="4" fill-rule="nonzero"></path>
+                <path d="M322.5,0 L322.5,190" id="Path-17" stroke="#007D99" stroke-width="3" stroke-dasharray="4" fill-rule="nonzero"></path>
+                <circle id="Oval-19" fill="#064355" fill-rule="nonzero" transform="translate(94.500000, 303.500000) rotate(-6.000000) translate(-94.500000, -303.500000) " cx="94.5" cy="303.5" r="7.5"></circle>
+                <circle id="Oval-19" stroke="#0E6676" stroke-width="3" fill="#151F30" fill-rule="nonzero" transform="translate(94.500000, 153.500000) rotate(-6.000000) translate(-94.500000, -153.500000) " cx="94.5" cy="153.5" r="7.5"></circle>
+                <path d="M0,153.5 L87.315593,153.5" id="Path-17" stroke="url(#linearGradient-7)" stroke-width="3" stroke-dasharray="4" fill-rule="nonzero"></path>
+                <circle id="Oval-19" stroke="#0E6676" stroke-width="3" fill="#151F30" fill-rule="nonzero" transform="translate(322.500000, 22.500000) rotate(-6.000000) translate(-322.500000, -22.500000) " cx="322.5" cy="22.5" r="7.5"></circle>
+                <circle id="Oval-41-Copy-5" stroke="url(#linearGradient-6)" stroke-width="3" fill="url(#linearGradient-5)" fill-rule="nonzero" cx="321.5" cy="89.5" r="22"></circle>
+                <circle id="Oval-41-Copy-4" stroke="url(#linearGradient-6)" stroke-width="3" fill="url(#linearGradient-5)" fill-rule="nonzero" cx="95.5" cy="213.5" r="22"></circle>
+                <circle id="Oval-41-Copy-6" stroke="url(#linearGradient-6)" stroke-width="3" fill="url(#linearGradient-5)" fill-rule="nonzero" cx="321.5" cy="213.5" r="22"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

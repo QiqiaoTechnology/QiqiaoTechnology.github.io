@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="480px" height="420px" viewBox="0 0 480 420" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>分布式身份标识</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="88.0334092%" y1="17.3554322%" x2="19.5979926%" y2="89.2518521%" id="linearGradient-1">
+            <stop stop-color="#17709E" offset="0%"></stop>
+            <stop stop-color="#151F30" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="139.977777%" y1="-37.0184537%" x2="19.4384622%" y2="89.4194504%" id="linearGradient-2">
+            <stop stop-color="#267EAC" offset="0%"></stop>
+            <stop stop-color="#151F30" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-97.2223825%" y1="-155.047776%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#3CE1FF" offset="0%"></stop>
+            <stop stop-color="#3CE1FF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#CDCB72" offset="0%"></stop>
+            <stop stop-color="#16D6FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-5">
+            <stop stop-color="#9FFDFF" offset="0%"></stop>
+            <stop stop-color="#16D6FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="16.1414893%" y1="-21.8352797%" x2="50%" y2="100%" id="linearGradient-6">
+            <stop stop-color="#FFB52E" offset="0%"></stop>
+            <stop stop-color="#64F9FD" offset="100%"></stop>
+        </linearGradient>
+        <polyline id="path-7" points="39.2793042 46.5187313 0 46.5187313 0 7.21903097"></polyline>
+        <filter x="-21.6%" y="-16.5%" width="143.3%" height="143.3%" filterUnits="objectBoundingBox" id="filter-8">
+            <feMorphology radius="1.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="2" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feMorphology radius="1.5" operator="erode" in="SourceAlpha" result="shadowInner"></feMorphology>
+            <feOffset dx="0" dy="2" in="shadowInner" result="shadowInner"></feOffset>
+            <feComposite in="shadowOffsetOuter1" in2="shadowInner" operator="out" result="shadowOffsetOuter1"></feComposite>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M3.81882124,42.6979271 L38.3997183,8.09907354" id="path-9"></path>
+        <filter x="-11.6%" y="0.7%" width="115.3%" height="115.2%" filterUnits="objectBoundingBox" id="filter-10">
+            <feMorphology radius="1.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="2" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feMorphology radius="1.5" operator="erode" in="SourceAlpha" result="shadowInner"></feMorphology>
+            <feOffset dx="0" dy="2" in="shadowInner" result="shadowInner"></feOffset>
+            <feComposite in="shadowOffsetOuter1" in2="shadowInner" operator="out" result="shadowOffsetOuter1"></feComposite>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="0%" y1="100%" x2="144.703857%" y2="-46.4074443%" id="linearGradient-11">
+            <stop stop-color="#FFBE00" offset="0%"></stop>
+            <stop stop-color="#C4CF7E" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="0%" x2="83.3640016%" y2="115.381295%" id="linearGradient-12">
+            <stop stop-color="#007D99" offset="0%"></stop>
+            <stop stop-color="#007D99" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="分布式身份标识" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#151F30" x="0" y="0" width="480" height="420"></rect>
+        <g id="Group">
+            <rect id="Rectangle" fill="#151F30" x="0" y="0" width="480" height="420"></rect>
+            <g transform="translate(50.000000, 66.000000)" fill-rule="nonzero">
+                <polygon id="Rectangle" fill="url(#linearGradient-1)" opacity="0.300000012" points="346.173503 174 411.027555 214.834033 202.854053 266.877409 138 226.043376"></polygon>
+                <polygon id="Rectangle" fill="url(#linearGradient-2)" opacity="0.300000012" points="134.915965 282 176.947477 308.753332 42.0315122 342.850716 0 316.097384"></polygon>
+                <polygon id="Path" fill="url(#linearGradient-3)" points="123 97.109375 123 166.701172 193.378076 209.640625 262.40736 166.701172 262.40736 97.109375 191.010453 55.3144531"></polygon>
+                <g id="Group-11-Copy-2" transform="translate(57.000000, 0.000000)">
+                    <g id="Group-8" transform="translate(66.000000, 55.000000)" stroke-width="3">
+                        <polyline id="Path-23" stroke="url(#linearGradient-4)" stroke-linecap="round" stroke-linejoin="round" points="70.0440099 87.2067193 0.143904352 43.0405452 0.143904352 110.985924 70.0440099 154.935267"></polyline>
+                        <polyline id="Path-27" stroke="url(#linearGradient-5)" stroke-linecap="round" stroke-linejoin="round" points="70.4675835 86.6020987 139.914001 42.7618059 139.914001 111.437692 70.4675835 154.796159"></polyline>
+                        <polyline id="Path-28" stroke="url(#linearGradient-6)" stroke-linecap="round" stroke-linejoin="round" points="0.100041252 42.0807038 68.195213 0.343831534 139.768008 42.0807038"></polyline>
+                        <path d="M70.3340301,84.1807459 L69.9674132,153.980062" id="Line-13" stroke="#66FAFE"></path>
+                    </g>
+                    <g id="Group-2" transform="translate(0.000000, 223.000000)" stroke-linecap="round">
+                        <g id="Rectangle">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
+                            <use stroke="#35DFFF" stroke-width="3" xlink:href="#path-7"></use>
+                        </g>
+                        <g id="Line-14">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-10)" xlink:href="#path-9"></use>
+                            <use stroke="#35DFFF" stroke-width="3" xlink:href="#path-9"></use>
+                        </g>
+                    </g>
+                    <g id="Group-7" stroke="url(#linearGradient-11)" stroke-linecap="round" stroke-width="3">
+                        <polyline id="Rectangle" transform="translate(19.679570, 20.090687) rotate(-270.000000) translate(-19.679570, -20.090687) " points="39.3745674 39.6853189 -0.0154272433 39.6853189 -0.0154272433 0.496055307"></polyline>
+                        <path d="M-0.0645694412,46.2664977 L45.8904243,0.545690159" id="Line-14" transform="translate(22.912927, 23.406094) rotate(-270.000000) translate(-22.912927, -23.406094) "></path>
+                    </g>
+                    <g id="Group-6" transform="translate(224.000000, 0.000000)" stroke="#64F9FD" stroke-linecap="round" stroke-width="3">
+                        <polyline id="Rectangle" transform="translate(26.360348, 20.131119) rotate(-180.000000) translate(-26.360348, -20.131119) " points="46 39.780969 6.72069585 39.780969 6.72069585 0.481268731"></polyline>
+                        <path d="M3.99296639,42.5101149 L38.5738635,7.91126135" id="Line-14" transform="translate(23.087073, 23.406094) rotate(-180.000000) translate(-23.087073, -23.406094) "></path>
+                    </g>
+                    <g id="Group-3" transform="translate(224.000000, 223.000000)" stroke="#3CE1FF" stroke-linecap="round" stroke-width="3">
+                        <polyline id="Rectangle" transform="translate(26.320430, 26.909313) rotate(-450.000000) translate(-26.320430, -26.909313) " points="46.0154272 46.5039447 6.62543262 46.5039447 6.62543262 7.31468113"></polyline>
+                        <path d="M0.109575717,46.4543098 L46.0645694,0.733502347" id="Line-14" transform="translate(23.087073, 23.593906) rotate(-450.000000) translate(-23.087073, -23.593906) "></path>
+                    </g>
+                </g>
+                <path d="M111,178.082031 L138.315593,178.082031 L82,178.082031 L82,146 L82,109.839844" id="Path-17" stroke="#007D99" stroke-width="3" opacity="0.900000036" stroke-dasharray="4"></path>
+                <path d="M81.1726988,114.643783 C84.7625135,114.656842 87.6597071,111.757298 87.6437618,108.167472 C87.6278166,104.577645 84.7047706,101.65693 81.1149559,101.643871 C77.5251412,101.630813 74.6279476,104.530356 74.6438928,108.120183 C74.6598381,111.71001 77.5828841,114.630725 81.1726988,114.643783 Z" id="Oval-19" stroke="#0E7476" stroke-width="3" fill="#151F30" transform="translate(81.143827, 108.143827) rotate(-6.000000) translate(-81.143827, -108.143827) "></path>
+                <path d="M248,149.5 L405.315593,149.5 L405.315593,312.390625 L429.854053,312.390625" id="Path-17" stroke="url(#linearGradient-12)" stroke-width="3" stroke-dasharray="4"></path>
+                <circle id="Oval-19" fill="#115E74" transform="translate(248.143827, 149.143827) rotate(-6.000000) translate(-248.143827, -149.143827) " cx="248.143827" cy="149.143827" r="6.5"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
