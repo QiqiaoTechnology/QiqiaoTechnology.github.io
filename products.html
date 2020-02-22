@@ -14,10 +14,38 @@ canonical: https://heliumjk.github.io
   <div class="container">
     <div class="mb-60"></div>
     <div class="row"></div>
-      <h2 class="heading-title text-center"><span class="text-primary">产品介绍</span></h2><div class="mb-60"></div>
-      <div class="col-md-12 col-sm-12 center">
-        <p>七巧的核心产品是CNFS（中国文档系统）和基于CNFS的区块链/Web3.0存储整体解决方案。自主研发的七巧云盒硬件终端，是CNFS的实现载体和整体解决方案的支撑组件。该终端采用先进的“云端共享服务+终端本地服务” 模式， 面向政府/企业提供大数据资源管理与本地应用支撑服务。所谓云端共享服务，是指终端内部署的七巧网络组件，部署在用户端的硬件终端是七巧云的有机组成部分，即“云在家中”。此外，如果用户有需求，亦可部署若干硬件终端组成私有网络及私有链存储。所谓终端本地服务，是指该硬件终端完全胜任本地微型服务器角色，提供大量的本地信息化应用，如网站服务器、邮箱服务器、微信公众号管理后台及共享存储中心等，方便小微企事业用户快速构建自己的信息化中心。</p>
-      </div>
+      <h2 class="heading-title"><span class="text-primary">产品介绍</span></h2><div class="mb-60"></div>
+      <div class="col-md-12 col-sm-12">
+	      <p>七巧的核心产品是<strong>CNFS（中国文档系统）</strong>和<strong>基于CNFS的区块链/Web3.0存储整体解决方案</strong>。<br>
+	      <br>
+	      自主研发的<strong>七巧云盒硬件终端</strong>，是CNFS的实现载体和整体解决方案的支撑组件。
+	      <br>
+	      <br>
+	      <font color="blue">七巧产品栈</font>：
+	      <ol>
+
+		      <li> (1) 七巧云全功能界面及API <br>
+			      <br>&nbsp;&nbsp;&nbsp;&nbsp; - &nbsp;&nbsp;用户可以网络界面访问形式使用七巧云分布式区块链存储带来的便利与优惠。<br>
+			       <br>&nbsp;&nbsp;&nbsp;&nbsp; - &nbsp;&nbsp;同时，七巧云API被设计为插拔式的云上CNFS工具，用户可以按需选择，以API即插即用，快速安全地满足项目存储需求。<br>
+		      </li>
+		     <br>
+		      <li> (2) <strong>本地私有CNFS存储</strong>软硬件全套支持<br>
+			       <br>&nbsp;&nbsp;&nbsp;&nbsp; - &nbsp;&nbsp;基于七巧硬件终端快速组网构建专用CNFS网络，提供组网及内部网关、API开发等全栈支持，方便用户快速部署针对私有链或联盟链的存储支持。<br>
+		      </li>
+		     <br>
+		      <li> (3) 部署七巧硬件终端并成为七巧云节点 <br>
+  <br>&nbsp;&nbsp;&nbsp;&nbsp; - &nbsp;&nbsp;用户本地部署七巧硬件终端，接入七巧云成为七巧云节点，即可根据本地部署的七巧硬件终端规格免费享受对应容量的七巧云存储服务。 </br>
+		      </li>
+		     <br>
+		      <li> (4) 区块链开发全栈支持 <br>
+			      <br>&nbsp;&nbsp;&nbsp;&nbsp; - &nbsp;&nbsp; 包括但不限于软硬件选型，CNFS/IPFS支持，以太坊/超级账本（Hyperledger）接入，智能合约开发和审计，供应链开发等。<br>
+		      </li>
+		     <br>
+	      </ol>
+	      </p>
+
+
+	      </div>
     </div>
     <div class="mb-60"></div>
   </div>
@@ -28,10 +56,18 @@ canonical: https://heliumjk.github.io
       <div class="row">
         <div class="col-xs-12 col-sm-12">
           <h2 class="heading-title text-center"><span class="text-primary">核心技术介绍</span><br></h2><div class="mb-60"></div>
-          <p class="white">CNFS(China File System) 中国文档系统是基于七巧先前的研究成果创建的，一套内容可寻址/版本化/点对点超媒体的分布式存储/传输协议，它能使网络更快速，更安全，也更低耗，并且显著提高通讯以及存储的效率。CNFS是志在取代HTTP协议的下一代互联网协议。CNFS 是解决在区块链上存储大数据难，数据更新慢，计算功能昂贵等问题的最佳解决构建。传统的区块链在数据存储上面临数据更新慢和存储代价昂贵的问题，造成该问题的本质在于“用计算换信任”的设计思路，CNFS则是区块链数据最合适的存储介质。IPFS允许分布式地存储数据，数据不能被更改和伪造。如果不更改数据标识符，则无法更改存储在IPFS网络上的数据。<br><br>区块链应用领域：<br></p>
+          <p class="white">CNFS(China File System) 中国文档系统是基于七巧先前的研究成果创建的，一套内容可寻址/版本化/点对点超媒体的分布式存储/传输协议，它能使网络更快速，更安全，也更低耗，并且显著提高通讯以及存储的效率。
+	  <br>
+	  <br>
+	  传统的区块链在数据存储上面临数据更新慢和存储代价昂贵的问题，造成该问题的本质在于“用计算(广播)换信任”的设计思路，CNFS是区块链数据最合适的存储介质。CNFS的<strong>内容寻址</strong>，是通过文件内容生成唯一哈希值来标识文件。如果文件内容不变，其生成的哈希值不会变化；反之，如果哈希值不变，IPFS网络就能根据该哈希值检索出原本的内容，保证其未被篡改。这正是区块链“链上数据存储”变“链下数据存储”需要的特性，无需将数据本身放在链上，只需把对应的哈希值加密存储到区块链中并打上时间戳，有效节省区块链的存储开销及传输开销。
+	  <br><br>
+	  </p> 
+	 <p>
+	 <img src="{{BASE_PATH}}/assets/images/storing-hashes-subset-in-blockchain.png" />
+	</p> 
+	  <p class="white"> 区块链应用领域：<br></p>
         </div>
       </div>
-
       <div class="row">
         <div class="col-sm-6 col-md-6">
           <div class="service-box">
@@ -61,9 +97,12 @@ canonical: https://heliumjk.github.io
   <div class="container">
     <div class="mb-60"></div>
     <div class="row"></div>
-      <h2 class="heading-title text-center"><span class="text-primary">软件产品</span></h2><div class="mb-60"></div>
+      <h2 class="heading-title text-center"><span class="text-primary">七巧云产品特点</span></h2><div class="mb-60"></div>
       <div class="col-md-12 col-sm-12 ">
-        <p>七巧云 7qiaocloud.cn： 七巧云结合核心底层技术CNFS, 致力于打造分布式私有云，支持云存储和云计算; 同时，CNFS独特的内容寻址防篡改机制天然地可作为区块链数据的链下存储方案，CNFS也将是BaaS（blockchain as service）区块链开发平台的支撑技术，可用于打造区块链服务云。CNFS基于内容寻址，分布式去中心化的特点使得构建出的七巧云平台具有如下特点：</p>
+	      <p>结合<strong>核心底层技术CNFS/IPFS</strong>与安全加固<strong>七巧数据终端</strong>构建的分布式私有云。<br><br>
+	      CNFS独特的内容寻址防篡改机制天然地可作为区块链数据的链下存储方案，也是七巧BaaS（blockchain as service）区块链开发平台的核心支撑技术<br><br>
+	      
+	      基于内容寻址，分布式去中心化的七巧云平台具有如下特点：</p>
       </div>
     </div>
     
@@ -123,10 +162,15 @@ canonical: https://heliumjk.github.io
       
       <div class="row">
         <div class="col-xs-12 col-sm-12">
-          <h2 class="heading-title text-center"><span class="text-primary">七巧云盒介绍</span><br></h2><div class="mb-60"></div>
-          <p class="white">七巧硬件终端产品7Qyun系列目前共有有7Qyun-01A和7Qyun-01B两种型号，两种型号在计算能力及存储能力等方面存在若干差异，并可根据用户需求进行定制，充分满足各类型用户的需求。</p>
-          <p class="white">本地层面：单台7Qyun终端是“拆箱可用、配置灵活”的微型服务器，可以单台或多台组网的形式，为企事业单位提供——集中数据存储和管理办公文档，结合组织架构，分别为每个部门和项目组生成共享资料的知识库；内置多种信息中心应用构建支持，如企业邮箱，网络建站，微信公众号管理, 强大的新增应用开发支持等。</p>
-          <p class="white">云端层面：构筑基于内容寻址的CNFS分布式存储文件系统（平台），让数据访问更快、更安全，并为企事业单位基于CNFS下一代互联网技术构筑应用提供开发支持；用户可自由选择私有组网或加入七巧云网络。</p><br><br>
+          <h2 class="heading-title text-center"><span class="text-primary">七巧云盒硬件终端介绍</span><br></h2><div class="mb-60"></div>
+	  <p class="white"> 采用“<strong>云端组件载体+终端本地服务</strong>” 模式:</p>
+	  
+	  <ul> 
+		  <br>
+		  <li> <p class="white"> &nbsp;&nbsp;&nbsp;&nbsp; - &nbsp;&nbsp;终端内部署的七巧CNFS组件及网络组件，使该终端是分布式组网的有机单元，真正实现“云在家中”。</p></li>
+	 	  <br>
+	  	 <li> <p class="white"> &nbsp;&nbsp;&nbsp;&nbsp; - &nbsp;&nbsp;部署大量的本地信息化应用端, 开箱即用的信息化中心微型服务器(如网站服务器、邮箱服务器、微信公众号管理后台及共享存储中心等，支持用户订制开发)</p> </li>
+		  <br> 
         </div>
       </div>
 
@@ -140,6 +184,7 @@ canonical: https://heliumjk.github.io
         <span></span>
       </div>
 
+          <p>七巧硬件终端7Qyun系列目前共有7Qyun-01A和7Qyun-01B两种型号，在计算能力及存储能力等方面存在若干差异，并可根据用户需求进行定制，充分满足各类型用户的需求。</p>
       <div class="table-responsive mtb">
         <table class="table table-hover">
           <thead>
